@@ -1,5 +1,5 @@
 # REVERSAL ALGORITHM
-Two pointer technique is a simple and effective technique, 
+Reversal algorithm is a simple and effective technique, 
 which is mostly used for array rotation.
 
 We need to rotate the array for K (**3**)  times :
@@ -49,6 +49,6 @@ Reversal algorithm illustration :
 >Haskell Implementation : [ReversalAlgorithm.hs](https://github.com/dhanafresher15/Algorithms/blob/master/Reversal-algorithm-for-array-rotation/ReversalAlgorithm.hs)
 
 ## Can solve problems like :
- 1. [Rototae Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
+ 1. [Rotote Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
 2. [Rotate Array - LeetCode](https://leetcode.com/problems/rotate-array/)
 3. [Reversal Algorithm](https://practice.geeksforgeeks.org/problems/reversal-algorithm/0)
