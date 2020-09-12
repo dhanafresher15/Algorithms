@@ -80,7 +80,7 @@ Let the popped element be y.
     } 
 ```
 
->Java Implementation : 
+>Java Implementation : [MinStack.java](https://github.com/dhanafresher15/Algorithms/blob/master/Min-stack/MinStack.java)
 
 ## Can solve problems like :
 1. [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
